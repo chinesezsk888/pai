@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "查询成功",
+  "count": 255,
+  "nextUrl":"",
+  "groupData":{
+    "id": 100,
+    "label": "美食|时尚|购物",
+    "subNum": 6,
+    "cover": "https://file.moetu.org/images/2020/03/20/demo12856824118908579a.jpg"
+  },
+  "listData": [
+    {
+      "id": 304,
+      "url": "https://file.moetu.org/images/2020/03/20/demo1318ff24f66208a621.jpg"
+    },
+    {
+      "id": 305,
+      "url": "https://file.moetu.org/images/2020/03/20/demo1855a6920688e5b3cb.jpg"
+    },
+    {
+      "id": 306,
+      "url": "https://file.moetu.org/images/2020/03/20/demo173c82a402ad11d86e.jpg"
+    },
+    {
+      "id": 307,
+      "url": "https://file.moetu.org/images/2020/03/20/demo1942ca0844d760e5d2.jpg"
+    },
+    {
+      "id": 308,
+      "url": "https://file.moetu.org/images/2020/03/20/demo20a7517dda54f7ddd5.jpg"
+    },
+    {
+      "id": 309,
+      "url": "https://file.moetu.org/images/2020/03/20/demo21e60b6f79b7caa6e7.jpg"
+    },
+    {
+      "id": 310,
+      "url": "https://file.moetu.org/images/2020/03/20/demo224bcb1f06ed0f1914.jpg"
+    },
+    {
+      "id": 311,
+      "url": "https://file.moetu.org/images/2020/03/20/demo2353fb4a13467495f3.jpg"
+    },
+    {
+      "id": 312,
+      "url": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg"
+    },
+    {
+      "id": 313,
+      "url": "https://file.moetu.org/images/2020/03/20/demo25d2dc104a4e8c8f22.jpg"
+    },
+    {
+      "id": 314,
+      "url": "https://file.moetu.org/images/2020/03/20/demo26c7f5554944bd3121.jpg"
+    },
+    {
+      "id": 315,
+      "url": "https://file.moetu.org/images/2020/03/20/demo5c5e845cb1ee565f.jpg"
+    },
+    {
+      "id": 316,
+      "url": "https://file.moetu.org/images/2020/03/20/demo1fa5d2b14dbb90fe4.jpg"
+    }
+  ]
+}

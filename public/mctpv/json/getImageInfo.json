@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "message": "查询成功",
+  "data":{
+    "id": 200,
+    "label": ["动物","保护","山猫","可爱","白色"],
+    "groupLabel": ["组标签1","组标签2","组标签3"],
+    "url": "http://image.thepaper.cn/www/image/45/562/230.jpg",
+    "urlWaterMark":"http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190510171511d1c43e978dd942daa1493a133312ab5aecaa4e58518db2451dc7745143196aa0.jpg?x-oss-process=style/thepaper_mms_800",
+    "title": "视频聚合部图片素材组211",
+    "summary":"5日凌晨6点左右，桂林雁山区雁山镇西龙村一村民自建房发生火灾。火灾已造成5人死亡，30人受伤，其中7人在重症监护室抢救。",
+    "author": "视频聚合部审核1",
+    "duration":"142.342",
+    "copyright":"原创",
+    "resolution":"2360*4000",
+    "maxSize":"300dpi",
+    "createTime":"2019-01-03",
+    "exif": "dar:16:9↵fps:29.97003↵codecName:h264"   
+  },
+  "relationList": [
+    {
+      "id": 304,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 305,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 306,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 307,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 308,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 309,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 310,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 311,
+      "url": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/20190430142951a5d729c955f5453a848471183f68b2a1f68168fe15996b53a4e56886d9a1ea3e.jpg?x-oss-process=style/thepaper_mms_800"
+    },
+    {
+      "id": 312,
+      "url": "http://image.thepaper.cn/www/image/45/448/826.jpg"
+    },
+    {
+      "id": 313,
+      "url": "http://image.thepaper.cn/www/image/45/491/885.jpg"
+    },
+    {
+      "id": 314,
+      "url": "http://image.thepaper.cn/www/image/45/563/237.jpg"
+    }
+  ]
+}

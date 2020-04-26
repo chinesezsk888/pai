@@ -1,0 +1,232 @@
+{
+  "success": true,
+  "message": "查询成功",
+  "count": 255,
+  "nextUrl":"",
+  "groupData": [
+      {
+          "id": 100,
+          "label": "美食|时尚|购物",
+          "subNum": 4,
+          "cover": "https://file.moetu.org/images/2020/03/20/demo1318ff24f66208a621.jpg"
+      },
+      {
+          "id": 101,
+          "label": "女篮|爱国|富强",
+          "subNum": 5,
+          "cover": "https://file.moetu.org/images/2020/03/20/demo1855a6920688e5b3cb.jpg"
+      },
+      {
+          "id": 102,
+          "label": "民主|和谐|统一",
+          "subNum": 6,
+          "cover": "https://file.moetu.org/images/2020/03/20/demo173c82a402ad11d86e.jpg"
+      },
+      {
+          "id": 1022,
+          "label": "寒冷|温暖|阳光",
+          "subNum": 6,
+          "cover": "https://file.moetu.org/images/2020/03/20/demo1942ca0844d760e5d2.jpg"
+      },
+      {
+          "id": 103,
+          "label": "山峦|水流|瀑布",
+          "subNum": 7,
+          "cover": "https://file.moetu.org/images/2020/03/20/demo20a7517dda54f7ddd5.jpg"
+      }
+  ],
+  "listData": [
+      {
+          "id": 104,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo21e60b6f79b7caa6e7.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 105,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo224bcb1f06ed0f1914.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 106,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 107,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 108,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 109,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 110,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 111,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 112,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo2471b65d8e891cd159.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 113,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo25d2dc104a4e8c8f22.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 114,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo25d2dc104a4e8c8f22.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      },
+      {
+          "id": 115,
+          "label": "美食|时尚|购物",
+          "resolution": "4K",
+          "copyright": "共享",
+          "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/mp4sd/20190506112954453a361cbe5641c28eddcb3427daa064056381a036dbbee4d84a685bd6a76402.mp4",
+          "cover": "https://file.moetu.org/images/2020/03/20/demo25d2dc104a4e8c8f22.jpg",
+          "duration": 142,
+          "snapShotUrl": [
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00001.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/00005.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000010.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000015.jpg?x-oss-process=style/thepaper_mms",
+              "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/video/0bc562a424d54916a044b191cfea7f02/image/000020.jpg?x-oss-process=style/thepaper_mms"
+          ]
+      }
+  ]
+}

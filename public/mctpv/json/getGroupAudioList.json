@@ -1,0 +1,57 @@
+{
+  "success": true, 
+  "message": "查询成功", 
+  "count": 255, 
+  "nextUrl":"",
+  "groupData":{
+        "id": 201, 
+        "label": "轻松", 
+        "subNum": 6, 
+        "cover": "http://thepaper-mam-in.oss-cn-hangzhou.aliyuncs.com/image/2019043016072112162af418b3478488b51861e0723990c3726c56dfe9ea8391c2364994bc615a.jpg?x-oss-process=style/thepaper_mms", 
+        "childs": [
+            {
+                "id": 1004, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频", 
+                "author": "王伟",
+                "key": "中国"
+            }, 
+            {
+                "id": 1005, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频2", 
+                "author": "王伟"
+            }, 
+            {
+                "id": 1006, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频3", 
+                "author": "王伟"
+            }, 
+            {
+                "id": 10061, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频3", 
+                "author": "王伟"
+            }, 
+            {
+                "id": 10062, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频3", 
+                "author": "王伟"
+            }, 
+            {
+                "id": 10063, 
+                "url": "http://thepaper-mam-out.oss-cn-hangzhou.aliyuncs.com/audio/f6cb9b6de8c44405bb5b9f092e075b10/mp364/20190507145238e8e64389e6b04d158976e56c4ae5ca84ceb163daf5a0a67036bbe4338ea975b1.mp3", 
+                "duration": 165, 
+                "title": "美丽中国音频3", 
+                "author": "王伟"
+            }
+        ]
+    }
+}
